@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="images">
+        <item>@drawable/familyguy</item>
+        <item>@drawable/modernfamily</item>
+        <item>@drawable/pinocchio</item>
+        <item>@drawable/elcamino</item>
+        <item>@drawable/brooklyn99</item>
+        <item>@drawable/blackmirror</item>
+        <item>@drawable/runningman</item>
+        <item>@drawable/idolroom</item>
+    </array>
+
+    <string-array name="names">
+        <item>Family Guy</item>
+        <item>Modern Family</item>
+        <item>Pinocchio</item>
+        <item>El Camino</item>
+        <item>Brooklyn 99</item>
+        <item>Black Mirror</item>
+        <item>Running Man</item>
+        <item>Idol Room</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Family Guy is an American animated sitcom created by Seth MacFarlane for the Fox Broadcasting Company. The series centers on the Griffins, a family consisting of parents Peter and Lois; their children, Meg, Chris, and Stewie; and their anthropomorphic pet dog, Brian. The show is set in the fictional city of Quahog, Rhode Island, and exhibits much of its humor in the form of metafictional cutaway gags that often lampoon American culture.</item>
+        <item>Modern Family is an American television mockumentary family sitcom created by Christopher Lloyd and Steven Levitan for the American Broadcasting Company. First aired on September 23, 2009, the show follows the lives of Jay Pritchett and his family, all of whom live in suburban Los Angeles. Pritchetts family includes his second wife, their son and his stepson, as well as his two adult children and their husbands and children.</item>
+        <item>Pinocchio (Korean: 피노키오; RR: Pinokio) is a 2014–2015 South Korean television series starring Lee Jong-suk, Park Shin-hye, Kim Young-kwang and Lee Yu-bi. It aired on SBS from November 12, 2014 to January 15, 2015 on Wednesdays and Thursdays at 21:55 (12:55 UTC) for 20 episodes.</item>
+        <item>El Camino: A Breaking Bad Movie, or simply El Camino, is an upcoming American neo-western crime drama film that serves as a continuation of the television series Breaking Bad. Series creator Vince Gilligan acts as screenwriter, producer and director of the film, with Aaron Paul reprising his role as Jesse Pinkman.</item>
+        <item>Brooklyn Nine-Nine is an American television police sitcom created by Dan Goor and Michael Schur. The series revolves around Jake Peralta (Andy Samberg), an immature but talented NYPD detective in Brooklyns 99th Precinct, who often comes into conflict with his new commanding officer, the serious and stern Captain Raymond Holt (Andre Braugher). The rest of the cast features Stephanie Beatriz as Rosa Diaz, Terry Crews as Terry Jeffords, Melissa Fumero as Amy Santiago, Joe Lo Truglio as Charles Boyle, Chelsea Peretti as Gina Linetti, Dirk Blocker as Michael Hitchcock, and Joel McKinnon Miller as Norm Scully. The series premiered on Fox on September 17, 2013, where it aired for its first five seasons before moving to NBC beginning with season six.</item>
+        <item>Black Mirror is a British science fiction anthology television series created by Charlie Brooker. He and Annabel Jones serve as the programmes showrunners. It examines modern society, particularly with regard to the unanticipated consequences of new technologies.</item>
+        <item>Running Man (Korean: 런닝맨) is a South Korean variety show, forming part of SBSs Good Sunday lineup. It first aired on July 11, 2010. Running Man was classified as an "urban action variety"; a genre of variety shows in an urban environment. The MCs and guests were to complete missions at a landmark to win the race.</item>
+        <item>Idol Room (Korean: 아이돌룸) is a South Korean television program which airs on JTBC every Tuesday at 18:30 (KST) and is currently hosted by Jeong Hyeong-don and Defconn. The program is inspired by JTBC Newsroom, and it is produced in order to be the idol-specialised program with number one credibility.</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item>https://www.fox.com/family-guy/</item>
+        <item>https://abc.go.com/shows/modern-family</item>
+        <item>https://www.viki.com/tv/23066c-pinocchio?locale=en</item>
+        <item>https://www.youtube.com/watch?v=lZKqMVPlDg8</item>
+        <item>https://www.nbc.com/brooklyn-nine-nine</item>
+        <item>https://www.youtube.com/watch?v=2bVik34nWws</item>
+        <item>https://www.viki.com/tv/21511c-running-man?locale=en</item>
+        <item>https://channels.vlive.tv/CB0685/home/</item>
+    </string-array>
+
+</resources>
